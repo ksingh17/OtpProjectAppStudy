@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: Komal_Singh
+Build-Jdk: 17
+Implementation-Title: project2
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.otp
+Implementation-URL: https://spring.io/projects/spring-boot/project2
+Created-By: Maven Integration for Eclipse
+
